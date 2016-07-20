@@ -11,9 +11,6 @@ The simulation part allows end users to easily simulate qMT data using the above
 
 Please view ['ReadMe.docx'](https://github.com/neuropoly/qMTLab/raw/master/ReadMe.docx) for details.
 
-Please report any bug or suggestions in [github](https://github.com/neuropoly/qMTLab/issues).
-
-
 ## Documentation
 
 ## Installation
@@ -23,6 +20,8 @@ Please report any bug or suggestions in [github](https://github.com/neuropoly/qM
 ## Supported MATLAB versions
 
 ## Contributing
+
+Please report any bugs or suggest new features through [GitHub](https://github.com/neuropoly/qMTLab/issues).
 
 ## Citation
 
