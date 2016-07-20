@@ -20,7 +20,7 @@ Installing qMTLab is easy and hassle-free! All you need is a supported version o
 
 The latest stable version of qMTLab can be downloaded freely [here](https://github.com/neuropoly/qMTLab/tarball/master).
 
-* Alternatively, you can clone the git repository from GitHub using this link: _https://github.com/neuropoly/qMTLab.git_ 
+* Alternatively, you can clone the git repository from GitHub using this link: `https://github.com/neuropoly/qMTLab.git` 
 
 * If you have a GitHub account (free) and wish to contribute to the software, you can go to [https://github.com/neuropoly/qMTLab](https://github.com/neuropoly/qMTLab) and fork the repository to your account. If you make any contribution to the software that you feel should be included in the project, please make a pull request so that we can review your modifications before including them in the project.
 
