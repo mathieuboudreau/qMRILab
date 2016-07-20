@@ -31,3 +31,5 @@ If you use qMTLab in you work, please cite:
 Cabana, J.-F., Gu, Y., Boudreau, M., Levesque, I. R., Atchia, Y., Sled, J. G., Narayanan, S., Arnold, D. L., Pike, G. B., Cohen-Adad, J., Duval, T., Vuong, M.-T. and Stikov, N. (2015), Quantitative magnetization transfer imaging made easy with qMTLab: Software for data simulation, analysis, and visualization. Concepts Magn. Reson., 44A: 263–277. doi: 10.1002/cmr.a.21357
 
 ## About NeuroPoly
+
+**NeuroPoly** is a research laboratory specialized in neuroimaging. It is based at [École Polytechnique](http://www.polymtl.ca) on the [Université de Montréal](http://www.umontreal.ca) campus, in Montréal, Canada.
