@@ -16,6 +16,16 @@ This work was published in Concepts in Magnetic Resonance Part A: [*Quantitative
 
 ## Installation
 
+Installing qMTLab is easy and hassle-free! All you need is a supported version of MATLAB installed, no additional software is required. 
+
+The latest stable version of qMTLab can be downloaded freely [here](https://github.com/neuropoly/qMTLab/tarball/master).
+
+* Alternatively, you can clone the git repository from GitHub using this link: _https://github.com/neuropoly/qMTLab.git_ 
+
+* If you have a GitHub account (free) and wish to contribute to the software, you can go to [https://github.com/neuropoly/qMTLab](https://github.com/neuropoly/qMTLab) and fork the repository to your account. If you make any contribution to the software that you feel should be included in the project, please make a pull request so that we can review your modifications before including them in the project.
+
+Once you have downloaded and extract the *.zip file or cloned the repository, start MATLAB, navigate to the qMTLab folder, and in the Command Window type `qMTLab` and hit enter. After a few seconds of loading, you should be presented with a graphical user interface (GUI) and you're ready to start simulating or processing qMT data!
+
 ## Data Format
 
 ## Supported MATLAB versions
