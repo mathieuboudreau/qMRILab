@@ -1,17 +1,19 @@
 # qMTLab
 
-For a quick introduction to qMTLab functionnalities, see the ['qMTLab presentation e-poster'] (https://github.com/neuropoly/qMTLab/raw/master/ReadMe.qMTLab-Presentation.ppsx), or alternatively you can view it on ['YouTube']
-(https://youtu.be/WG0tVe-SFww).
-
 qMTlab is a powerful, open source, scalable, easy to use and intuitive software for qMTI data simulation, fitting and analysis. The software consists of two parts:
 1) a qMT data simulator
 2) a qMT data fitting and visualization interface
 
 The simulation part allows end users to easily simulate qMT data using the above described methods, evaluate how well these models perform under known parameters input, determine the most appropriate acquisition protocol and evaluate how fitting constraints impact the results. The data fitting part provides a simple interface to import real-world qMT data, fit them using the selected fitting procedure, and visualize the resulting parameters maps.
 
-Please view ['ReadMe.docx'](https://github.com/neuropoly/qMTLab/raw/master/ReadMe.docx) for details.
-
 ## Documentation
+
+For a quick introduction to qMTLab functionnalities, see the ['qMTLab PowerPoint e-poster'] (https://github.com/neuropoly/qMTLab/raw/master/ReadMe.qMTLab-Presentation.ppsx) which was presented at the 2016 ISMRM conference. You can also watch the presentation on ['YouTube']
+(https://youtu.be/WG0tVe-SFww).
+
+For more in-detail explanations, please read the ['ReadMe.docx'](https://github.com/neuropoly/qMTLab/raw/master/ReadMe.docx).
+
+This work was published in Concepts in Magnetic Resonance Part A: [*Quantitative magnetization transfer imaging made easy with qMTLab: Software for data simulation, analysis, and visualization*](http://onlinelibrary.wiley.com/doi/10.1002/cmr.a.21357/abstract)
 
 ## Installation
 
