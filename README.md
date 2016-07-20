@@ -8,7 +8,7 @@ The simulation part allows end users to easily simulate qMT data using the above
 
 ## Documentation
 
-For a quick introduction to qMTLab functionnalities, see the [qMTLab PowerPoint e-poster](https://github.com/neuropoly/qMTLab/raw/master/ReadMe.qMTLab-Presentation.ppsx) which was presented at the 2016 ISMRM conference. You can also watch the presentation on [YouTube](https://youtu.be/WG0tVe-SFww).
+For a quick introduction to qMTLab functionnalities, see the [qMTLab PowerPoint e-poster](https://github.com/neuropoly/qMTLab/raw/master/qMTLab-Presentation.ppsx) which was presented at the 2016 ISMRM conference. You can also watch the presentation on [YouTube](https://youtu.be/WG0tVe-SFww).
 
 For more in-detail explanations, please read the ['ReadMe.docx'](https://github.com/neuropoly/qMTLab/raw/master/ReadMe.docx).
 
