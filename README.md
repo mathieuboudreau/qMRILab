@@ -30,6 +30,12 @@ Once you have downloaded and extract the *.zip file or cloned the repository, st
 
 ## Supported MATLAB versions
 
+This software has been tested and is known to work with the following versions:
+
+* R2015b (64-bit)
+
+If you experience any compatibility issues, please report them through [GitHub](https://github.com/neuropoly/qMTLab/issues).
+
 ## Contributing
 
 Please report any bugs or suggest new features through [GitHub](https://github.com/neuropoly/qMTLab/issues).
