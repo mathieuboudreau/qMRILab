@@ -26,8 +26,6 @@ The latest stable version of qMTLab can be downloaded freely [here](https://gith
 
 Once you have downloaded and extract the *.zip file or cloned the repository, start MATLAB, navigate to the qMTLab folder, and in the Command Window type `qMTLab` and hit enter. After a few seconds of loading, you should be presented with a graphical user interface (GUI) and you're ready to start simulating or processing qMT data!
 
-## Data Format
-
 ## Supported MATLAB versions
 
 This software has been tested and is known to work with the following versions:
@@ -35,6 +33,8 @@ This software has been tested and is known to work with the following versions:
 * R2015b (64-bit)
 
 If you experience any compatibility issues, please report them through [GitHub](https://github.com/neuropoly/qMTLab/issues).
+
+## Data Format
 
 ## Contributing
 
