@@ -44,7 +44,7 @@ Please report any bugs or suggest new features through [GitHub](https://github.c
 
 If you use qMTLab in you work, please cite:
 
-Cabana, J.-F., Gu, Y., Boudreau, M., Levesque, I. R., Atchia, Y., Sled, J. G., Narayanan, S., Arnold, D. L., Pike, G. B., Cohen-Adad, J., Duval, T., Vuong, M.-T. and Stikov, N. (2015), Quantitative magnetization transfer imaging made easy with qMTLab: Software for data simulation, analysis, and visualization. Concepts Magn. Reson., 44A: 263–277. doi: 10.1002/cmr.a.21357
+Cabana, J.-F., Gu, Y., Boudreau, M., Levesque, I. R., Atchia, Y., Sled, J. G., Narayanan, S., Arnold, D. L., Pike, G. B., Cohen-Adad, J., Duval, T., Vuong, M.-T. and Stikov, N. (2015), _Quantitative magnetization transfer imaging made easy with qMTLab: Software for data simulation, analysis, and visualization_. Concepts Magn. Reson., 44A: 263–277. doi: 10.1002/cmr.a.21357
 
 ## About NeuroPoly
 
