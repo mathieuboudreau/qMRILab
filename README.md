@@ -1,6 +1,6 @@
 # qMTLab
 
-qMTlab is a powerful, open source, scalable, easy to use and intuitive software for qMTI data simulation, fitting and analysis. The software consists of two parts:
+qMTLab is a powerful, open source, scalable, easy to use and intuitive software for qMTI data simulation, fitting and analysis. The software consists of two parts:
 1) a qMT data simulator
 2) a qMT data fitting and visualization interface
 
